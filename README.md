@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me
-- 🔧 Full-stack developer with 2+ years experience  
+- 🔧 Full-stack developer with 1+ years experience  
 - ⚙️ Building SaaS apps, Chrome extensions & automation tools  
 - 🤖 Exploring AI models like CP-VTON+, IDM-VTON & Vision-based micro SaaS  
 - 📱 Created apps for price prediction, WhatsApp automation & Instagram tools  
