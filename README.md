@@ -6,10 +6,10 @@
 ---
 
 ## 🌟 About Me
-- 🔧 Full-stack developer with 1+ years experience  
+- 🔧 Software developer with 1+ years experience  
 - ⚙️ Building SaaS apps, Chrome extensions & automation tools  
 - 🤖 Exploring AI models like CP-VTON+, IDM-VTON & Vision-based micro SaaS  
-- 📱 Created apps for price prediction, WhatsApp automation & Instagram tools  
+- 📱 Created websites for business 
 - 🎨 Love clean UI/UX & shipping fast MVPs
 
 ---
@@ -23,7 +23,7 @@
 
 ### **Backend**
 ✔ Node.js • Express.js  
-✔ Python • FastAPI  
+✔ Python • Mysql  
 ✔ MongoDB • Firebase  
 
 ### **Tools & Cloud**
@@ -37,7 +37,7 @@
 ## 🛠 Microsaas I'm Building
 
 - 🧩 **ChatGPT → Folder Saver Chrome Extension**  
-- 🎥 **Instagram & YouTube Downloader (React + Node)**   
+- 🎥 **free ai invoice generator (Next js + supabase)**   
 - 🖼 **Virtual Try-On Experiments (CP-VTON+, IDM-VTON)**  
 
 ---
