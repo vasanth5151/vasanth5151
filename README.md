@@ -1,78 +1,211 @@
-<h1 align="center">Hi, I'm Vasanth 👋</h1>
+<h1 align="center">Hi 👋, I'm Vasanth Kumar</h1>
+
+<h3 align="center">
+Software Developer | React.js • Next.js • Node.js • TypeScript • AI Enthusiast
+</h3>
+
 <p align="center">
-  🚀 Full-Stack Developer | Next.js • Node.js • Python | SaaS builder & AI Learner
+Building scalable web applications, AI-powered SaaS products, and modern user experiences.
 </p>
 
 ---
 
-## 🌟 About Me
-- 🔧 Software developer with 1+ years experience  
-- ⚙️ Building SaaS apps, Chrome extensions & automation tools  
-- 🤖 Exploring AI models like CP-VTON+, IDM-VTON & Vision-based micro SaaS  
-- 📱 Created websites for business 
-- 🎨 Love clean UI/UX & shipping fast MVPs
+## 🚀 About Me
+
+💼 Software Developer at **Zero Gravity Technologies**
+
+💻 Building scalable web applications using React.js, Next.js, Node.js & Express.js
+
+⚡ Passionate about SaaS, AI Products, Automation & Modern UI
+
+🎯 Currently building AI-powered Micro SaaS products
+
+📚 Learning System Design, Docker, PostgreSQL, AI Agents & Cloud
+
+🌱 Love building products that solve real-world problems
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-### **Frontend**
-✔ Next.js • React.js  
-✔ Tailwind CSS  
-✔ HTML • CSS • JS  
+### Frontend
 
-### **Backend**
-✔ Node.js • Express.js  
-✔ Python • Mysql  
-✔ MongoDB • Firebase  
-
-### **Tools & Cloud**
-✔ Git • GitHub  
-✔ Google Cloud • HuggingFace  
-✔ Chrome Extensions  
-✔ REST APIs • Webhooks  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
 ---
 
-## 🛠 Microsaas I'm Building
+### Backend
 
-- 🧩 **ChatGPT → Folder Saver Chrome Extension**  
-- 🎥 **free ai invoice generator (Next js + supabase)**   
-- 🖼 **Virtual Try-On Experiments (CP-VTON+, IDM-VTON)**  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ---
 
-## 📊 GitHub Stats  
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+### Dev Tools
+
+Git
+
+GitHub
+
+Docker
+
+Postman
+
+Firebase
+
+WordPress
+
+REST APIs
+
+Authentication
+
+Performance Optimization
+
+---
+
+# 💼 Professional Experience
+
+🏢 **Software Developer**
+**Zero Gravity Technologies**
+
+- Developed React & Next.js applications
+- Built reusable UI components
+- Developed REST APIs using Express.js
+- Improved Core Web Vitals & website performance
+- Built SEO-optimized WordPress websites
+- Collaborated with cross-functional development teams
+
+---
+
+# 🚀 Featured Projects
+
+### 💬 MERN Real-Time Chat Application
+
+✔ React.js
+
+✔ Node.js
+
+✔ Express.js
+
+✔ MongoDB
+
+✔ Authentication
+
+✔ Real-time Messaging
+
+---
+
+### 🧾 AI Invoice Generator (SaaS)
+
+✔ Next.js
+
+✔ AI Prompt Processing
+
+✔ PDF Export
+
+✔ Authentication
+
+✔ Database Integration
+
+---
+
+### 🤖 AI & Micro SaaS Projects
+
+🚀 ChatGPT Folder Saver Chrome Extension
+
+🚀 AI Invoice Generator
+
+🚀 Virtual Try-On (CP-VTON+, IDM-VTON)
+
+🚀 AI Automation Tools
+
+---
+
+## 📈 Currently Learning
+
+- AI Agents
+- LangChain
+- LangGraph
+- MCP
+- RAG
+- Docker
+- Kubernetes
+- AWS
+- PostgreSQL
+- System Design
+- Micro SaaS
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vasanth5151&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=vasanth5151&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vasanth5151&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vasanth5151&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🤝 Connect With Me
-<p>
-  <a href="mailto:vasanthkumar5151@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanth5151&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-⭐ *Always building, learning, and sharing. Open to collaboration!*
+## 🎯 2026 Goals
 
+✅ Build 10 Micro SaaS Products
 
-<!--
-**vasanth5151/vasanth5151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✅ Master AI Agents
 
-Here are some ideas to get you started:
+✅ Learn System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Contribute to Open Source
+
+✅ Build Production-Ready Full Stack Applications
+
+---
+
+## 📫 Connect With Me
+
+📧 Email
+
+**vasanthkumar5151@gmail.com**
+
+💼 LinkedIn
+
+https://linkedin.com/in/your-link
+
+🌐 Portfolio
+
+Coming Soon...
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</p>
