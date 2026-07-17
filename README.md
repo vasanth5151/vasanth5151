@@ -196,11 +196,11 @@ Performance Optimization
 
 💼 LinkedIn
 
-https://linkedin.com/in/your-link
+https://www.linkedin.com/in/vasanth-kumar-r-314411249/
 
 🌐 Portfolio
 
-Coming Soon...
+https://vasanth-portfoolio.vercel.app/
 
 ---
 
